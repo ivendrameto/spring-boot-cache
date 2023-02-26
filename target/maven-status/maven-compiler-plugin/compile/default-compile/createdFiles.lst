@@ -1,0 +1,5 @@
+br/eti/vendrameto/xp4dev/cache/dto/VendaDTO.class
+br/eti/vendrameto/xp4dev/cache/service/VendasService.class
+br/eti/vendrameto/xp4dev/cache/Application.class
+br/eti/vendrameto/xp4dev/cache/config/RedisConfig.class
+br/eti/vendrameto/xp4dev/cache/controller/VendasController.class

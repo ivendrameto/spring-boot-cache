@@ -1,0 +1,10 @@
+###
+GET  http://{{host}}:{{port}}/{{context}}/v1/vendas/explorer/2
+Accept: application/json
+Content-Type: application/json
+
+###
+GET  http://{{host}}:{{port}}/{{context}}/v1/vendas/clean-cache/1
+Accept: application/json
+Content-Type: application/json
+
